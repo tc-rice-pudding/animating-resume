@@ -1,5 +1,6 @@
-# animating-resume
-会动的简历
+# animating-resume 会动的简历
+
+## [演示地址](https://tc-rice-pudding.github.io/animating-resume/)
 
 ## 拉取代码
    * git pull        拉取代码
@@ -13,4 +14,3 @@
    * npm run build   打包
    * nodemon /static/index.js  使用 koa-static 为 /dist/ 启动静态服务
 
-## [演示地址](https://tc-rice-pudding.github.io/animating-resume/)
