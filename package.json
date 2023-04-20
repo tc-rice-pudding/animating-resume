@@ -9,6 +9,9 @@
   "dependencies": {
     "core-js": "^3.8.3",
     "element-plus": "^2.3.3",
+    "koa": "^2.14.2",
+    "koa-mount": "^4.0.0",
+    "koa-static": "^5.0.0",
     "marked": "^4.3.0",
     "prismjs": "^1.29.0",
     "vue": "^3.2.13"
